@@ -2,6 +2,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Calendar, Trophy, Users, Zap } from "lucide-react";
+import { useNavigate } from "@tanstack/react-router";
 
 const ChallengeSystem = () => {
   const challenges = [
@@ -55,6 +56,7 @@ const ChallengeSystem = () => {
     }
   };
 
+  const navigation = useNavigate();
   return (
     <section id="challenges" className="py-16 px-4 bg-muted/30">
       <div className="container mx-auto">
@@ -113,7 +115,7 @@ const ChallengeSystem = () => {
         </div>
 
         <div className="text-center mt-12">
-          <Button variant="outline" size="lg" className="border-nature text-nature hover:bg-nature-light">
+          <Button variant="outline" size="lg" className="border-nature text-nature hover:bg-nature-light" onClick={() => navigation({to: '/challenges'})}>
             View All Challenges
           </Button>
         </div>

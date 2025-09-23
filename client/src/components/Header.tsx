@@ -1,15 +1,36 @@
 import { Button } from "@/components/ui/button";
+import { authClient } from "@/lib/utils";
+import { useNavigate } from "@tanstack/react-router";
 import { LogIn, UserPlus, Leaf } from "lucide-react";
+import { useState, useEffect } from "react";
 
 const Header = () => {
+  const [session, setSession] = useState<any>(null);
+  const [loading, setLoading] = useState(true);
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    const getSession = async () => {
+      try {
+        const sessionData = await authClient.getSession();
+        setSession(sessionData);
+      } catch (error) {
+        console.error('Error getting session:', error);
+        setSession(null);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    getSession();
+  }, []);
+
   const handleLogin = () => {
-    // Login functionality will be implemented with Supabase integration
-    console.log("Login clicked");
+    navigate({ to: '/auth/login' });
   };
 
   const handleSignup = () => {
-    // Signup functionality will be implemented with Supabase integration
-    console.log("Signup clicked");
+    navigate({ to: '/auth/register' });
   };
 
   return (
@@ -18,7 +39,7 @@ const Header = () => {
         <div className="flex items-center space-x-2">
           <Leaf className="h-8 w-8 text-nature" />
           <span className="text-xl font-bold bg-gradient-to-r from-nature to-ocean bg-clip-text text-transparent">
-            EcoLearn India
+            NNinjas
           </span>
         </div>
         
@@ -29,23 +50,30 @@ const Header = () => {
           <a href="#challenges" className="text-muted-foreground hover:text-nature transition-colors">
             Challenges
           </a>
-          <a href="#impact" className="text-muted-foreground hover:text-nature transition-colors">
-            My Impact
-          </a>
           <a href="#feedback" className="text-muted-foreground hover:text-nature transition-colors">
             Feedback
           </a>
         </nav>
 
         <div className="flex items-center space-x-2">
-          <Button variant="ghost" onClick={handleLogin} className="hover:bg-nature-light">
-            <LogIn className="h-4 w-4 mr-2" />
-            Login
-          </Button>
-          <Button variant="nature" onClick={handleSignup}>
-            <UserPlus className="h-4 w-4 mr-2" />
-            Sign Up
-          </Button>
+          {loading ? (
+            <span className="text-sm text-muted-foreground">Loading...</span>
+          ) : session ? (
+            <Button variant="nature" onClick={() => navigate({ to: '/dashboard' })}>
+              Go to Dashboard
+            </Button>
+          ) : (
+            <>
+              <Button variant="ghost" onClick={handleLogin} className="hover:bg-nature-light">
+                <LogIn className="h-4 w-4 mr-2" />
+                Login
+              </Button>
+              <Button variant="nature" onClick={handleSignup}>
+                <UserPlus className="h-4 w-4 mr-2" />
+                Sign Up
+              </Button>
+            </>
+          )}
         </div>
       </div>
     </header>

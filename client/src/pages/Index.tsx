@@ -1,7 +1,6 @@
 import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
 import StateSelection from "@/components/StateSelection";
-import ImpactTracker from "@/components/ImpactTracker";
 import ChallengeSystem from "@/components/ChallengeSystem";
 import FeedbackSection from "@/components/FeedbackSection";
 
@@ -13,7 +12,6 @@ const Index = () => {
         <HeroSection />
         <StateSelection />
         <ChallengeSystem />
-        <ImpactTracker />
         <FeedbackSection />
       </main>
       

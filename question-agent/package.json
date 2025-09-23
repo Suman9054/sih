@@ -1,0 +1,21 @@
+{
+  "name": "question-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^0.3.76",
+    "@langchain/langgraph": "^0.4.9",
+    "@langchain/openai": "^0.6.12",
+    "axios": "^1.12.2",
+    "bullmq": "^5.58.5",
+    "ioredis": "^5.7.0",
+    "node-fetch": "^2.7.0"
+  }
+}

@@ -1,0 +1,1814 @@
+{
+  "easy": [
+    {
+      "id": 1,
+      "question": "Which gas is called a “greenhouse gas”?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": 2,
+      "question": "Which day is celebrated as World Environment Day?",
+      "options": ["22 April", "5 June", "1 May", "10 December"],
+      "answer": "5 June"
+    },
+    {
+      "id": 3,
+      "question": "Which of these is a renewable source of energy?",
+      "options": ["Coal", "Petroleum", "Solar", "Natural gas"],
+      "answer": "Solar"
+    },
+    {
+      "id": 4,
+      "question": "What is the process by which plants make food?",
+      "options": ["Respiration", "Photosynthesis", "Transpiration", "Digestion"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "id": 5,
+      "question": "Which layer of the atmosphere protects us from harmful UV rays?",
+      "options": ["Troposphere", "Ozone layer", "Stratosphere", "Exosphere"],
+      "answer": "Ozone layer"
+    },
+    {
+      "id": 6,
+      "question": "Which of these is a non-renewable resource?",
+      "options": ["Wind", "Sunlight", "Coal", "Water"],
+      "answer": "Coal"
+    },
+    {
+      "id": 7,
+      "question": "Which is the largest source of freshwater on Earth?",
+      "options": ["Lakes", "Rivers", "Glaciers", "Groundwater"],
+      "answer": "Glaciers"
+    },
+    {
+      "id": 8,
+      "question": "Which animal is known as the National Animal of India?",
+      "options": ["Lion", "Tiger", "Elephant", "Leopard"],
+      "answer": "Tiger"
+    },
+    {
+      "id": 9,
+      "question": "Which is the main cause of global warming?",
+      "options": ["Deforestation", "Overfishing", "Plastic waste", "Noise pollution"],
+      "answer": "Deforestation"
+    },
+    {
+      "id": 10,
+      "question": "Which river is considered the lifeline of India?",
+      "options": ["Ganga", "Yamuna", "Godavari", "Narmada"],
+      "answer": "Ganga"
+    },
+    {
+      "id": 11,
+      "question": "Which energy is obtained from moving air?",
+      "options": ["Solar", "Hydro", "Wind", "Thermal"],
+      "answer": "Wind"
+    },
+    {
+      "id": 12,
+      "question": "Which part of the plant is responsible for photosynthesis?",
+      "options": ["Roots", "Stem", "Leaves", "Flowers"],
+      "answer": "Leaves"
+    },
+    {
+      "id": 13,
+      "question": "Which gas do humans exhale during respiration?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": 14,
+      "question": "Which country is the largest emitter of carbon dioxide?",
+      "options": ["USA", "India", "China", "Russia"],
+      "answer": "China"
+    },
+    {
+      "id": 15,
+      "question": "Which animal is known as the ‘Ship of the Desert’?",
+      "options": ["Horse", "Camel", "Elephant", "Donkey"],
+      "answer": "Camel"
+    },
+    {
+      "id": 16,
+      "question": "Which is the largest land animal?",
+      "options": ["Elephant", "Giraffe", "Rhino", "Hippo"],
+      "answer": "Elephant"
+    },
+    {
+      "id": 17,
+      "question": "Which of these is a biodegradable material?",
+      "options": ["Plastic", "Glass", "Paper", "Aluminium"],
+      "answer": "Paper"
+    },
+    {
+      "id": 18,
+      "question": "Which energy source is used in hydroelectric power plants?",
+      "options": ["Coal", "Water", "Wind", "Solar"],
+      "answer": "Water"
+    },
+    {
+      "id": 19,
+      "question": "Which continent has the largest rainforest?",
+      "options": ["Africa", "Asia", "South America", "Australia"],
+      "answer": "South America"
+    },
+    {
+      "id": 20,
+      "question": "Which is the national bird of India?",
+      "options": ["Sparrow", "Crow", "Peacock", "Parrot"],
+      "answer": "Peacock"
+    },
+    {
+      "id": 21,
+      "question": "Which of these is not a fossil fuel?",
+      "options": ["Coal", "Natural gas", "Petroleum", "Biogas"],
+      "answer": "Biogas"
+    },
+    {
+      "id": 22,
+      "question": "Which ocean is the largest?",
+      "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+      "answer": "Pacific"
+    },
+    {
+      "id": 23,
+      "question": "Which type of pollution is caused by vehicles?",
+      "options": ["Air", "Noise", "Water", "Thermal"],
+      "answer": "Air"
+    },
+    {
+      "id": 24,
+      "question": "Which planet is known as the Blue Planet?",
+      "options": ["Earth", "Mars", "Venus", "Jupiter"],
+      "answer": "Earth"
+    },
+    {
+      "id": 25,
+      "question": "Which gas is essential for human survival?",
+      "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"],
+      "answer": "Oxygen"
+    },
+    {
+      "id": 26,
+      "question": "Which energy is directly obtained from sunlight?",
+      "options": ["Wind", "Hydro", "Solar", "Geothermal"],
+      "answer": "Solar"
+    },
+    {
+      "id": 27,
+      "question": "Which waste is harmful to the environment?",
+      "options": ["Plastic", "Vegetable peels", "Paper", "Wood"],
+      "answer": "Plastic"
+    },
+    {
+      "id": 28,
+      "question": "Which is the largest land carnivore?",
+      "options": ["Lion", "Tiger", "Polar Bear", "Leopard"],
+      "answer": "Polar Bear"
+    },
+    {
+      "id": 29,
+      "question": "Which is the main source of oxygen in the atmosphere?",
+      "options": ["Trees", "Rocks", "Soil", "Animals"],
+      "answer": "Trees"
+    },
+    {
+      "id": 30,
+      "question": "Which is the national aquatic animal of India?",
+      "options": ["Crocodile", "Dolphin", "Turtle", "Shark"],
+      "answer": "Dolphin"
+    },
+    {
+      "id": 31,
+      "question": "Which is the largest desert in the world?",
+      "options": ["Thar", "Sahara", "Gobi", "Kalahari"],
+      "answer": "Sahara"
+    },
+    {
+      "id": 32,
+      "question": "Which gas do plants release during photosynthesis?",
+      "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
+      "answer": "Oxygen"
+    },
+    {
+      "id": 33,
+      "question": "Which is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Horse", "Tiger"],
+      "answer": "Cheetah"
+    },
+    {
+      "id": 34,
+      "question": "Which energy is derived from Earth’s heat?",
+      "options": ["Solar", "Wind", "Hydro", "Geothermal"],
+      "answer": "Geothermal"
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is a non-biodegradable material?",
+      "options": ["Fruit peels", "Leaves", "Plastic", "Paper"],
+      "answer": "Plastic"
+    },
+    {
+      "id": 36,
+      "question": "Which state in India is famous for the Sundarbans mangroves?",
+      "options": ["Odisha", "West Bengal", "Andhra Pradesh", "Kerala"],
+      "answer": "West Bengal"
+    },
+    {
+      "id": 37,
+      "question": "Which gas causes acid rain?",
+      "options": ["Oxygen", "Carbon dioxide", "Sulphur dioxide", "Nitrogen"],
+      "answer": "Sulphur dioxide"
+    },
+    {
+      "id": 38,
+      "question": "Which is the largest mammal?",
+      "options": ["Elephant", "Blue Whale", "Rhino", "Giraffe"],
+      "answer": "Blue Whale"
+    },
+    {
+      "id": 39,
+      "question": "Which of these causes water pollution?",
+      "options": ["Plastic waste", "Sunlight", "Wind", "Trees"],
+      "answer": "Plastic waste"
+    },
+    {
+      "id": 40,
+      "question": "Which is the national flower of India?",
+      "options": ["Rose", "Lotus", "Sunflower", "Lily"],
+      "answer": "Lotus"
+    },
+    {
+      "id": 41,
+      "question": "Which is the largest continent?",
+      "options": ["Asia", "Africa", "Europe", "South America"],
+      "answer": "Asia"
+    },
+    {
+      "id": 42,
+      "question": "Which gas do humans need to breathe?",
+      "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Helium"],
+      "answer": "Oxygen"
+    },
+    {
+      "id": 43,
+      "question": "Which of these is a non-renewable energy source?",
+      "options": ["Wind", "Solar", "Coal", "Water"],
+      "answer": "Coal"
+    },
+    {
+      "id": 44,
+      "question": "Which country is known as the ‘Land of Rising Sun’?",
+      "options": ["India", "China", "Japan", "Thailand"],
+      "answer": "Japan"
+    },
+    {
+      "id": 45,
+      "question": "Which is the national fruit of India?",
+      "options": ["Banana", "Mango", "Apple", "Orange"],
+      "answer": "Mango"
+    },
+    {
+      "id": 46,
+      "question": "Which of these is a renewable resource?",
+      "options": ["Petroleum", "Wind", "Coal", "Natural gas"],
+      "answer": "Wind"
+    },
+    {
+      "id": 47,
+      "question": "Which type of pollution is caused by loudspeakers?",
+      "options": ["Air", "Noise", "Water", "Soil"],
+      "answer": "Noise"
+    },
+    {
+      "id": 48,
+      "question": "Which gas do animals inhale for survival?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
+      "answer": "Oxygen"
+    },
+    {
+      "id": 49,
+      "question": "Which is the smallest planet in our solar system?",
+      "options": ["Earth", "Mars", "Mercury", "Venus"],
+      "answer": "Mercury"
+    },
+    {
+      "id": 50,
+      "question": "Which type of pollution is caused by excessive vehicle honking?",
+      "options": ["Water", "Air", "Noise", "Soil"],
+      "answer": "Noise"
+    },
+    {
+      "id": 51,
+      "question": "Which is the national heritage animal of India?",
+      "options": ["Elephant", "Tiger", "Lion", "Camel"],
+      "answer": "Elephant"
+    },
+    {
+      "id": 52,
+      "question": "Which renewable energy uses flowing water?",
+      "options": ["Hydropower", "Solar", "Wind", "Geothermal"],
+      "answer": "Hydropower"
+    },
+    {
+      "id": 53,
+      "question": "Which is the national park famous for one-horned rhinos?",
+      "options": ["Kaziranga", "Gir", "Sundarbans", "Jim Corbett"],
+      "answer": "Kaziranga"
+    },
+    {
+      "id": 54,
+      "question": "Which type of waste is banana peel?",
+      "options": ["Biodegradable", "Non-biodegradable", "Electronic", "Plastic"],
+      "answer": "Biodegradable"
+    },
+    {
+      "id": 55,
+      "question": "Which is the primary source of energy on Earth?",
+      "options": ["Moon", "Sun", "Volcanoes", "Wind"],
+      "answer": "Sun"
+    },
+    {
+      "id": 56,
+      "question": "Which river is the longest in the world?",
+      "options": ["Amazon", "Nile", "Ganga", "Yangtze"],
+      "answer": "Nile"
+    },
+    {
+      "id": 57,
+      "question": "Which of the following is not a greenhouse gas?",
+      "options": ["Carbon dioxide", "Methane", "Nitrous oxide", "Oxygen"],
+      "answer": "Oxygen"
+    },
+    {
+      "id": 58,
+      "question": "Which is the national reptile of India?",
+      "options": ["Cobra", "Monitor Lizard", "Crocodile", "Turtle"],
+      "answer": "Cobra"
+    },
+    {
+      "id": 59,
+      "question": "Which energy is obtained from organic waste?",
+      "options": ["Solar", "Biogas", "Wind", "Nuclear"],
+      "answer": "Biogas"
+    },
+    {
+      "id": 60,
+      "question": "Which of these is a water-polluting material?",
+      "options": ["Plastic bags", "Sunlight", "Air", "Sand"],
+      "answer": "Plastic bags"
+    },
+    {
+      "id": 61,
+      "question": "Which is the largest river in India?",
+      "options": ["Ganga", "Yamuna", "Brahmaputra", "Godavari"],
+      "answer": "Ganga"
+    },
+    {
+      "id": 62,
+      "question": "Which of these is not a natural resource?",
+      "options": ["Soil", "Water", "Plastic", "Air"],
+      "answer": "Plastic"
+    },
+    {
+      "id": 63,
+      "question": "Which gas is used by plants during photosynthesis?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": 64,
+      "question": "Which is the largest island in the world?",
+      "options": ["Greenland", "Madagascar", "New Guinea", "Borneo"],
+      "answer": "Greenland"
+    },
+    {
+      "id": 65,
+      "question": "Which type of pollution is caused by factories?",
+      "options": ["Air", "Noise", "Thermal", "All of these"],
+      "answer": "All of these"
+    },
+    {
+      "id": 66,
+      "question": "Which is the tallest animal on land?",
+      "options": ["Elephant", "Giraffe", "Horse", "Camel"],
+      "answer": "Giraffe"
+    },
+    {
+      "id": 67,
+      "question": "Which of these is not a water pollutant?",
+      "options": ["Oil spill", "Plastics", "Chemicals", "Sunlight"],
+      "answer": "Sunlight"
+    },
+    {
+      "id": 68,
+      "question": "Which is the national tree of India?",
+      "options": ["Neem", "Banyan", "Peepal", "Coconut"],
+      "answer": "Banyan"
+    },
+    {
+      "id": 69,
+      "question": "Which of these is a fossil fuel?",
+      "options": ["Solar", "Coal", "Wind", "Water"],
+      "answer": "Coal"
+    },
+    {
+      "id": 70,
+      "question": "Which is the largest living bird?",
+      "options": ["Ostrich", "Peacock", "Eagle", "Emu"],
+      "answer": "Ostrich"
+    },
+    {
+      "id": 71,
+      "question": "Which gas is most abundant in Earth’s atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+      "answer": "Nitrogen"
+    },
+    {
+      "id": 72,
+      "question": "Which is the smallest ocean in the world?",
+      "options": ["Indian", "Atlantic", "Arctic", "Pacific"],
+      "answer": "Arctic"
+    },
+    {
+      "id": 73,
+      "question": "Which of these is an endangered species?",
+      "options": ["Tiger", "Goat", "Crow", "Dog"],
+      "answer": "Tiger"
+    },
+    {
+      "id": 74,
+      "question": "Which country is known as the Land of Kangaroos?",
+      "options": ["India", "Australia", "South Africa", "New Zealand"],
+      "answer": "Australia"
+    },
+    {
+      "id": 75,
+      "question": "Which renewable source uses photovoltaic cells?",
+      "options": ["Hydro", "Solar", "Wind", "Geothermal"],
+      "answer": "Solar"
+    },
+    {
+      "id": 76,
+      "question": "Which is the largest ocean current in the world?",
+      "options": ["Gulf Stream", "Kuroshio", "Antarctic Circumpolar Current", "California Current"],
+      "answer": "Antarctic Circumpolar Current"
+    },
+    {
+      "id": 77,
+      "question": "Which of these is not an endangered species?",
+      "options": ["Tiger", "Sparrow", "Panda", "Rhino"],
+      "answer": "Sparrow"
+    },
+    {
+      "id": 78,
+      "question": "Which type of pollution is caused by excess fertilizers?",
+      "options": ["Air", "Water", "Noise", "Light"],
+      "answer": "Water"
+    },
+    {
+      "id": 79,
+      "question": "Which is the world’s largest coral reef system?",
+      "options": ["Red Sea Reef", "Great Barrier Reef", "Andaman Reef", "Hawaii Reef"],
+      "answer": "Great Barrier Reef"
+    },
+    {
+      "id": 80,
+      "question": "Which is the largest planet in our solar system?",
+      "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+      "answer": "Jupiter"
+    },
+    {
+      "id": 81,
+      "question": "Which of these animals lives both in water and on land?",
+      "options": ["Whale", "Frog", "Shark", "Fish"],
+      "answer": "Frog"
+    },
+    {
+      "id": 82,
+      "question": "Which river flows through Egypt?",
+      "options": ["Amazon", "Ganga", "Nile", "Yangtze"],
+      "answer": "Nile"
+    },
+    {
+      "id": 83,
+      "question": "Which type of pollution is caused by radioactive materials?",
+      "options": ["Water", "Nuclear", "Air", "Soil"],
+      "answer": "Nuclear"
+    },
+    {
+      "id": 84,
+      "question": "Which is the coldest continent?",
+      "options": ["Asia", "Europe", "Antarctica", "North America"],
+      "answer": "Antarctica"
+    },
+    {
+      "id": 85,
+      "question": "Which of these is a domestic animal?",
+      "options": ["Dog", "Tiger", "Lion", "Leopard"],
+      "answer": "Dog"
+    },
+    {
+      "id": 86,
+      "question": "Which is the world’s largest island country?",
+      "options": ["Philippines", "Indonesia", "Japan", "New Zealand"],
+      "answer": "Indonesia"
+    },
+    {
+      "id": 87,
+      "question": "Which type of pollution is caused by burning fossil fuels?",
+      "options": ["Air", "Soil", "Water", "Noise"],
+      "answer": "Air"
+    },
+    {
+      "id": 88,
+      "question": "Which of these is a migratory bird?",
+      "options": ["Crow", "Siberian Crane", "Pigeon", "Hen"],
+      "answer": "Siberian Crane"
+    },
+    {
+      "id": 89,
+      "question": "Which ocean lies between Africa and Australia?",
+      "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+      "answer": "Indian"
+    },
+    {
+      "id": 90,
+      "question": "Which type of waste are electronic gadgets?",
+      "options": ["Biodegradable", "E-waste", "Plastic", "Paper"],
+      "answer": "E-waste"
+    },
+    {
+      "id": 91,
+      "question": "Which of these is a natural satellite of Earth?",
+      "options": ["Moon", "Mars", "Venus", "Sun"],
+      "answer": "Moon"
+    },
+    {
+      "id": 92,
+      "question": "Which country is home to the Amazon rainforest?",
+      "options": ["India", "Brazil", "Australia", "USA"],
+      "answer": "Brazil"
+    },
+    {
+      "id": 93,
+      "question": "Which of these is a plant-eating animal?",
+      "options": ["Tiger", "Deer", "Lion", "Leopard"],
+      "answer": "Deer"
+    },
+    {
+      "id": 94,
+      "question": "Which gas is used in fire extinguishers?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": 95,
+      "question": "Which of these is the largest ecosystem on Earth?",
+      "options": ["Forest", "Ocean", "Desert", "Grassland"],
+      "answer": "Ocean"
+    },
+    {
+      "id": 96,
+      "question": "Which energy source comes from hot springs?",
+      "options": ["Geothermal", "Solar", "Wind", "Nuclear"],
+      "answer": "Geothermal"
+    },
+    {
+      "id": 97,
+      "question": "Which continent is known as the ‘Dark Continent’?",
+      "options": ["Asia", "Europe", "Africa", "Australia"],
+      "answer": "Africa"
+    },
+    {
+      "id": 98,
+      "question": "Which is the world’s second most spoken language?",
+      "options": ["English", "Mandarin Chinese", "Spanish", "Hindi"],
+      "answer": "Spanish"
+    },
+    {
+      "id": 99,
+      "question": "Which of these is a nocturnal animal?",
+      "options": ["Owl", "Cow", "Dog", "Goat"],
+      "answer": "Owl"
+    },
+    {
+      "id": 100,
+      "question": "Which is the largest living reptile?",
+      "options": ["Crocodile", "Komodo Dragon", "Alligator", "Python"],
+      "answer": "Crocodile"
+    }
+  ],
+  "medium": [
+    {
+    "id": 101,
+    "question": "Which Indian state is home to the Silent Valley National Park, known for its tropical evergreen rainforests?",
+    "options": ["Kerala", "Assam", "Madhya Pradesh", "Sikkim"],
+    "answer": "Kerala"
+  },
+  {
+    "id": 102,
+    "question": "Which international agreement, signed in 1987, focuses on phasing out substances that deplete the ozone layer?",
+    "options": ["Kyoto Protocol", "Paris Agreement", "Montreal Protocol", "Basel Convention"],
+    "answer": "Montreal Protocol"
+  },
+  {
+    "id": 103,
+    "question": "What is the largest source of greenhouse gas emissions in India?",
+    "options": ["Agriculture", "Electricity generation", "Transportation", "Deforestation"],
+    "answer": "Electricity generation"
+  },
+  {
+    "id": 104,
+    "question": "The Chipko movement, which involved villagers hugging trees to prevent logging, began in which Indian state?",
+    "options": ["Uttarakhand", "Himachal Pradesh", "Jharkhand", "Kerala"],
+    "answer": "Uttarakhand"
+  },
+  {
+    "id": 105,
+    "question": "Which species is considered the national aquatic animal of India?",
+    "options": ["Olive Ridley Turtle", "Ganges River Dolphin", "Dugong", "Indian Mackerel"],
+    "answer": "Ganges River Dolphin"
+  },
+  {
+    "id": 106,
+    "question": "Which natural disaster led to the 2004 Indian Ocean Tsunami?",
+    "options": ["Cyclone", "Earthquake", "Volcanic eruption", "Flood"],
+    "answer": "Earthquake"
+  },
+  {
+    "id": 107,
+    "question": "Which Indian city became the first to implement a comprehensive ban on plastic bags?",
+    "options": ["Delhi", "Sikkim", "Bangalore", "Mumbai"],
+    "answer": "Sikkim"
+  },
+  {
+    "id": 108,
+    "question": "What percentage of Earth's total water is available as freshwater?",
+    "options": ["10%", "2.5%", "5%", "1%"],
+    "answer": "2.5%"
+  },
+  {
+    "id": 109,
+    "question": "Which Indian river is most associated with severe pollution due to untreated sewage and industrial effluents?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Brahmaputra"],
+    "answer": "Yamuna"
+  },
+  {
+    "id": 110,
+    "question": "Which species is known as the 'umbrella species' in India, often used as a symbol of biodiversity conservation?",
+    "options": ["Royal Bengal Tiger", "Asiatic Lion", "Indian Elephant", "Snow Leopard"],
+    "answer": "Royal Bengal Tiger"
+  },
+  {
+    "id": 111,
+    "question": "What is the main reason for smog formation in cities like Delhi?",
+    "options": ["Dust storms", "Crop burning and vehicle emissions", "Volcanic gases", "Sea spray"],
+    "answer": "Crop burning and vehicle emissions"
+  },
+  {
+    "id": 112,
+    "question": "The Sundarbans mangrove forest is shared between India and which other country?",
+    "options": ["Nepal", "Bangladesh", "Sri Lanka", "Myanmar"],
+    "answer": "Bangladesh"
+  },
+  {
+    "id": 113,
+    "question": "Which renewable energy source is the largest contributor to India’s renewable power capacity?",
+    "options": ["Solar", "Wind", "Hydropower", "Biomass"],
+    "answer": "Wind"
+  },
+  {
+    "id": 114,
+    "question": "Which endangered species is found only in the Gir Forest National Park in India?",
+    "options": ["Bengal Tiger", "Asiatic Lion", "Snow Leopard", "Indian Rhino"],
+    "answer": "Asiatic Lion"
+  },
+  {
+    "id": 115,
+    "question": "Which international environmental observance is celebrated every year on June 5th?",
+    "options": ["Earth Day", "World Environment Day", "Ozone Day", "Biodiversity Day"],
+    "answer": "World Environment Day"
+  },
+  {
+    "id": 116,
+    "question": "Which pollutant is primarily responsible for acid rain?",
+    "options": ["Carbon dioxide", "Sulphur dioxide", "Methane", "Ozone"],
+    "answer": "Sulphur dioxide"
+  },
+  {
+    "id": 117,
+    "question": "Which type of farming promotes environmental sustainability by avoiding chemical fertilizers and pesticides?",
+    "options": ["Organic farming", "Intensive farming", "Shifting cultivation", "Industrial farming"],
+    "answer": "Organic farming"
+  },
+  {
+    "id": 118,
+    "question": "The 2015 Paris Agreement primarily aims to limit global warming to below how many degrees Celsius above pre-industrial levels?",
+    "options": ["3°C", "1.5°C", "2°C", "2.5°C"],
+    "answer": "2°C"
+  },
+  {
+    "id": 119,
+    "question": "Which invasive species has significantly affected the ecosystem of Loktak Lake in Manipur?",
+    "options": ["Water hyacinth", "Eichhornia crassipes", "Prosopis juliflora", "Parthenium weed"],
+    "answer": "Water hyacinth"
+  },
+  {
+    "id": 120,
+    "question": "Which Indian state is most prone to cyclones due to its long coastline?",
+    "options": ["Odisha", "Kerala", "Tamil Nadu", "Gujarat"],
+    "answer": "Odisha"
+  },
+  {
+    "id": 121,
+    "question": "Which sector in India consumes the highest share of freshwater resources?",
+    "options": ["Agriculture", "Industry", "Domestic use", "Power generation"],
+    "answer": "Agriculture"
+  },
+  {
+    "id": 122,
+    "question": "Which mountain range in India is recognized as a UNESCO World Heritage Site for its biodiversity?",
+    "options": ["Aravallis", "Himalayas", "Western Ghats", "Eastern Ghats"],
+    "answer": "Western Ghats"
+  },
+  {
+    "id": 123,
+    "question": "Which air pollutant is measured by the term 'PM2.5'?",
+    "options": ["Particulate matter smaller than 2.5 microns", "Sulphur oxides", "Ozone", "Nitrogen oxides"],
+    "answer": "Particulate matter smaller than 2.5 microns"
+  },
+  {
+    "id": 124,
+    "question": "Which global organization publishes the annual 'State of the World's Forests' report?",
+    "options": ["UNEP", "WWF", "FAO", "IUCN"],
+    "answer": "FAO"
+  },
+  {
+    "id": 125,
+    "question": "What is the major threat to coral reefs worldwide?",
+    "options": ["Overfishing", "Coral bleaching due to climate change", "Plastic waste", "Ship traffic"],
+    "answer": "Coral bleaching due to climate change"
+  },
+  {
+    "id": 126,
+    "question": "Which Indian city is most famous for its 'Cleanest City' title under the Swachh Survekshan rankings?",
+    "options": ["Indore", "Mysore", "Chandigarh", "Surat"],
+    "answer": "Indore"
+  },
+  {
+    "id": 127,
+    "question": "Which is the largest mangrove forest in the world?",
+    "options": ["Sundarbans", "Pichavaram", "Bhitarakanika", "Amazon Delta Mangroves"],
+    "answer": "Sundarbans"
+  },
+  {
+    "id": 128,
+    "question": "Which Indian state has the largest forest cover as per the India State of Forest Report?",
+    "options": ["Madhya Pradesh", "Arunachal Pradesh", "Chhattisgarh", "Odisha"],
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "id": 129,
+    "question": "What is the main cause of the shrinking of the Aral Sea?",
+    "options": ["Deforestation", "Diversion of rivers for irrigation", "Industrial pollution", "Climate change"],
+    "answer": "Diversion of rivers for irrigation"
+  },
+  {
+    "id": 130,
+    "question": "Which environmental movement in India protested against the construction of large dams on the Narmada river?",
+    "options": ["Chipko Movement", "Narmada Bachao Andolan", "Appiko Movement", "Save Silent Valley Movement"],
+    "answer": "Narmada Bachao Andolan"
+  },
+  {
+    "id": 131,
+    "question": "What does the '3Rs' principle stand for in waste management?",
+    "options": ["Reduce, Reuse, Recycle", "Refuse, Reuse, Rebuild", "Reduce, Reform, Reuse", "Recycle, Repair, Reduce"],
+    "answer": "Reduce, Reuse, Recycle"
+  },
+  {
+    "id": 132,
+    "question": "Which greenhouse gas has the highest global warming potential among the following?",
+    "options": ["Methane", "Carbon dioxide", "Nitrous oxide", "Chlorofluorocarbons (CFCs)"],
+    "answer": "Chlorofluorocarbons (CFCs)"
+  },
+  {
+    "id": 133,
+    "question": "Which Indian river is considered the lifeline of Madhya Pradesh and Gujarat?",
+    "options": ["Yamuna", "Godavari", "Narmada", "Tapti"],
+    "answer": "Narmada"
+  },
+  {
+    "id": 134,
+    "question": "Which international body releases the 'Emissions Gap Report' annually?",
+    "options": ["UNEP", "World Bank", "IPCC", "IUCN"],
+    "answer": "UNEP"
+  },
+  {
+    "id": 135,
+    "question": "Which Indian state has launched the 'Mission Clean Ganga' initiative?",
+    "options": ["Uttar Pradesh", "Bihar", "West Bengal", "Multiple states"],
+    "answer": "Multiple states"
+  },
+  {
+    "id": 136,
+    "question": "Which major Indian city is situated on the banks of the Sabarmati river?",
+    "options": ["Ahmedabad", "Surat", "Vadodara", "Jaipur"],
+    "answer": "Ahmedabad"
+  },
+  {
+    "id": 137,
+    "question": "What is the primary reason for desertification in Rajasthan?",
+    "options": ["Overgrazing and deforestation", "Flooding", "Volcanic activity", "Urbanization"],
+    "answer": "Overgrazing and deforestation"
+  },
+  {
+    "id": 138,
+    "question": "Which Indian national park is a UNESCO World Heritage Site and famous for one-horned rhinoceroses?",
+    "options": ["Kaziranga National Park", "Gir Forest National Park", "Periyar National Park", "Bandhavgarh National Park"],
+    "answer": "Kaziranga National Park"
+  },
+  {
+    "id": 139,
+    "question": "Which renewable energy mission was launched in India to promote solar power?",
+    "options": ["National Solar Mission", "Renew India Mission", "Clean Energy Mission", "Green Future Mission"],
+    "answer": "National Solar Mission"
+  },
+  {
+    "id": 140,
+    "question": "Which international treaty aims to reduce greenhouse gas emissions through legally binding targets?",
+    "options": ["Kyoto Protocol", "Paris Agreement", "Montreal Protocol", "Stockholm Convention"],
+    "answer": "Kyoto Protocol"
+  },
+  {
+    "id": 141,
+    "question": "Which Indian lake is famous for its floating islands called 'Phumdis'?",
+    "options": ["Loktak Lake", "Chilika Lake", "Pulicat Lake", "Vembanad Lake"],
+    "answer": "Loktak Lake"
+  },
+  {
+    "id": 142,
+    "question": "Which toxic heavy metal is most commonly found in polluted groundwater in parts of West Bengal and Bangladesh?",
+    "options": ["Lead", "Mercury", "Arsenic", "Cadmium"],
+    "answer": "Arsenic"
+  },
+  {
+    "id": 143,
+    "question": "Which Indian environmentalist is often associated with water conservation efforts like rainwater harvesting?",
+    "options": ["Sunderlal Bahuguna", "Rajendra Singh", "Medha Patkar", "Vandana Shiva"],
+    "answer": "Rajendra Singh"
+  },
+  {
+    "id": 144,
+    "question": "Which of the following is NOT a renewable source of energy?",
+    "options": ["Solar", "Wind", "Natural gas", "Biomass"],
+    "answer": "Natural gas"
+  },
+  {
+    "id": 145,
+    "question": "Which city hosted the first UN Conference on the Human Environment in 1972?",
+    "options": ["New York", "Stockholm", "Rio de Janeiro", "Geneva"],
+    "answer": "Stockholm"
+  },
+  {
+    "id": 146,
+    "question": "Which river system is the largest in India by discharge volume?",
+    "options": ["Yamuna", "Godavari", "Ganga-Brahmaputra-Meghna", "Narmada"],
+    "answer": "Ganga-Brahmaputra-Meghna"
+  },
+  {
+    "id": 147,
+    "question": "Which Indian initiative promotes afforestation along degraded forest land through people’s participation?",
+    "options": ["Green India Mission", "Joint Forest Management", "Compensatory Afforestation Act", "National Afforestation Plan"],
+    "answer": "Joint Forest Management"
+  },
+  {
+    "id": 148,
+    "question": "Which is the main greenhouse gas released by livestock farming?",
+    "options": ["Methane", "Carbon dioxide", "Nitrous oxide", "Ozone"],
+    "answer": "Methane"
+  },
+  {
+    "id": 149,
+    "question": "Which Indian island group is highly vulnerable to rising sea levels due to climate change?",
+    "options": ["Andaman & Nicobar Islands", "Lakshadweep Islands", "Majuli Island", "Rameswaram Island"],
+    "answer": "Lakshadweep Islands"
+  },
+  {
+    "id": 150,
+    "question": "Which global environmental report is periodically published by the Intergovernmental Panel on Climate Change (IPCC)?",
+    "options": ["Global Biodiversity Outlook", "Assessment Report", "State of the Climate Report", "Greenhouse Gas Bulletin"],
+    "answer": "Assessment Report"
+  },
+  {
+    "id": 151,
+    "question": "Which Indian city is known for the Yamuna Action Plan, aimed at reducing river pollution?",
+    "options": ["Agra", "Delhi", "Mathura", "Varanasi"],
+    "answer": "Delhi"
+  },
+  {
+    "id": 152,
+    "question": "Which Indian national park is famous for the Asiatic cheetah reintroduction project?",
+    "options": ["Kuno National Park", "Gir National Park", "Ranthambore National Park", "Jim Corbett National Park"],
+    "answer": "Kuno National Park"
+  },
+  {
+    "id": 153,
+    "question": "Which gas is primarily responsible for the greenhouse effect?",
+    "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 154,
+    "question": "Which Indian state is home to the Great Indian Bustard, a critically endangered bird species?",
+    "options": ["Rajasthan", "Gujarat", "Maharashtra", "Karnataka"],
+    "answer": "Rajasthan"
+  },
+  {
+    "id": 155,
+    "question": "Which Indian state is leading in solar energy production?",
+    "options": ["Rajasthan", "Gujarat", "Tamil Nadu", "Maharashtra"],
+    "answer": "Rajasthan"
+  },
+  {
+    "id": 156,
+    "question": "Which international protocol aims to eliminate the use of substances that deplete the ozone layer?",
+    "options": ["Kyoto Protocol", "Montreal Protocol", "Paris Agreement", "Stockholm Convention"],
+    "answer": "Montreal Protocol"
+  },
+  {
+    "id": 157,
+    "question": "Which pollutant is primarily responsible for global warming aside from CO2?",
+    "options": ["Methane", "Sulphur dioxide", "Oxygen", "Nitrogen"],
+    "answer": "Methane"
+  },
+  {
+    "id": 158,
+    "question": "Which Indian state has implemented large-scale rainwater harvesting projects to combat water scarcity?",
+    "options": ["Rajasthan", "Tamil Nadu", "Maharashtra", "Kerala"],
+    "answer": "Tamil Nadu"
+  },
+  {
+    "id": 159,
+    "question": "Which endangered species is found in the Sunderbans mangrove forest?",
+    "options": ["Royal Bengal Tiger", "Asiatic Lion", "Snow Leopard", "Indian Elephant"],
+    "answer": "Royal Bengal Tiger"
+  },
+  {
+    "id": 160,
+    "question": "Which Indian river has been the focus of the 'Namami Gange' project?",
+    "options": ["Yamuna", "Ganga", "Brahmaputra", "Godavari"],
+    "answer": "Ganga"
+  },
+  {
+    "id": 161,
+    "question": "Which global organization publishes the Global Environment Outlook (GEO) report?",
+    "options": ["UNEP", "WHO", "FAO", "IPCC"],
+    "answer": "UNEP"
+  },
+  {
+    "id": 162,
+    "question": "Which Indian state is known as the 'Land of Rising Sun' and is rich in biodiversity?",
+    "options": ["Arunachal Pradesh", "Assam", "Sikkim", "Nagaland"],
+    "answer": "Arunachal Pradesh"
+  },
+  {
+    "id": 163,
+    "question": "Which Indian initiative aims to promote large-scale afforestation and carbon sequestration?",
+    "options": ["Green India Mission", "National Afforestation Plan", "Clean Ganga Mission", "Compensatory Afforestation Fund Management"],
+    "answer": "Green India Mission"
+  },
+  {
+    "id": 164,
+    "question": "Which type of renewable energy is generated using tides and waves?",
+    "options": ["Solar energy", "Hydropower", "Marine energy", "Wind energy"],
+    "answer": "Marine energy"
+  },
+  {
+    "id": 165,
+    "question": "Which country is the largest emitter of CO2 in the world?",
+    "options": ["India", "China", "USA", "Russia"],
+    "answer": "China"
+  },
+  {
+    "id": 166,
+    "question": "Which Indian city is known for its extensive metro network reducing vehicular emissions?",
+    "options": ["Delhi", "Bangalore", "Kolkata", "Mumbai"],
+    "answer": "Delhi"
+  },
+  {
+    "id": 167,
+    "question": "Which endangered aquatic species is found in the Ganga river?",
+    "options": ["Ganges River Dolphin", "Gangetic Shark", "Golden Mahseer", "Pangasius"],
+    "answer": "Ganges River Dolphin"
+  },
+  {
+    "id": 168,
+    "question": "Which Indian national park is famous for its population of snow leopards?",
+    "options": ["Hemis National Park", "Kanha National Park", "Gir National Park", "Bandhavgarh National Park"],
+    "answer": "Hemis National Park"
+  },
+  {
+    "id": 169,
+    "question": "Which gas is primarily responsible for stratospheric ozone depletion?",
+    "options": ["Carbon dioxide", "Methane", "CFCs", "Nitrous oxide"],
+    "answer": "CFCs"
+  },
+  {
+    "id": 170,
+    "question": "Which Indian initiative promotes the installation of solar panels on rooftops?",
+    "options": ["National Solar Mission", "Green Energy Scheme", "Solar Rooftop Program", "Clean India Campaign"],
+    "answer": "National Solar Mission"
+  },
+  {
+    "id": 171,
+    "question": "Which Indian island group is at high risk of submersion due to sea-level rise?",
+    "options": ["Andaman & Nicobar Islands", "Lakshadweep", "Diu Islands", "Sundarbans Islands"],
+    "answer": "Lakshadweep"
+  },
+  {
+    "id": 172,
+    "question": "Which Indian river originates from the Amarkantak plateau and flows into the Arabian Sea?",
+    "options": ["Godavari", "Narmada", "Mahanadi", "Tapti"],
+    "answer": "Narmada"
+  },
+  {
+    "id": 173,
+    "question": "Which Indian state is famous for the Chilika Lake, the largest brackish water lagoon in Asia?",
+    "options": ["Odisha", "West Bengal", "Tamil Nadu", "Andhra Pradesh"],
+    "answer": "Odisha"
+  },
+  {
+    "id": 174,
+    "question": "Which Indian national park is the habitat of the one-horned rhinoceros?",
+    "options": ["Kaziranga National Park", "Gir National Park", "Periyar National Park", "Sundarbans National Park"],
+    "answer": "Kaziranga National Park"
+  },
+  {
+    "id": 175,
+    "question": "Which crop residue burning activity is a major contributor to air pollution in northern India?",
+    "options": ["Wheat stubble burning", "Rice stubble burning", "Sugarcane residue burning", "Maize residue burning"],
+    "answer": "Rice stubble burning"
+  },
+  {
+    "id": 176,
+    "question": "Which Indian national park is famous for its wetlands and migratory birds in winter?",
+    "options": ["Keoladeo Ghana National Park", "Sundarbans National Park", "Manas National Park", "Ranthambore National Park"],
+    "answer": "Keoladeo Ghana National Park"
+  },
+  {
+    "id": 177,
+    "question": "Which type of energy is generated by converting biomass into electricity or heat?",
+    "options": ["Geothermal energy", "Biogas energy", "Solar energy", "Wind energy"],
+    "answer": "Biogas energy"
+  },
+  {
+    "id": 178,
+    "question": "Which city in India is the first to implement an electric bus fleet to reduce air pollution?",
+    "options": ["Nagpur", "Delhi", "Bangalore", "Pune"],
+    "answer": "Nagpur"
+  },
+  {
+    "id": 179,
+    "question": "Which Indian state has a large number of hydroelectric projects in the Himalayas?",
+    "options": ["Himachal Pradesh", "Uttarakhand", "Sikkim", "Jammu & Kashmir"],
+    "answer": "Himachal Pradesh"
+  },
+  {
+    "id": 180,
+    "question": "Which Indian river is the longest by length within India?",
+    "options": ["Ganga", "Godavari", "Yamuna", "Krishna"],
+    "answer": "Godavari"
+  },
+  {
+    "id": 181,
+    "question": "Which Indian state has the highest potential for offshore wind energy?",
+    "options": ["Tamil Nadu", "Gujarat", "Andhra Pradesh", "Kerala"],
+    "answer": "Gujarat"
+  },
+  {
+    "id": 182,
+    "question": "Which Indian national park is known for its population of Asiatic elephants?",
+    "options": ["Periyar National Park", "Gir National Park", "Kaziranga National Park", "Sundarbans National Park"],
+    "answer": "Periyar National Park"
+  },
+  {
+    "id": 183,
+    "question": "Which Indian river forms the famous ‘Dhuandhar Falls’?",
+    "options": ["Narmada", "Godavari", "Cauvery", "Krishna"],
+    "answer": "Narmada"
+  },
+  {
+    "id": 184,
+    "question": "Which greenhouse gas is released during the decomposition of organic waste in landfills?",
+    "options": ["Methane", "Carbon dioxide", "Nitrous oxide", "Oxygen"],
+    "answer": "Methane"
+  },
+  {
+    "id": 185,
+    "question": "Which Indian mountain range is considered a biodiversity hotspot?",
+    "options": ["Western Ghats", "Aravalli Hills", "Vindhya Range", "Satpura Range"],
+    "answer": "Western Ghats"
+  },
+  {
+    "id": 186,
+    "question": "Which Indian state has the maximum number of tiger reserves?",
+    "options": ["Madhya Pradesh", "Karnataka", "Uttarakhand", "Rajasthan"],
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "id": 187,
+    "question": "Which Indian city hosts the headquarters of the International Solar Alliance?",
+    "options": ["Gurugram", "New Delhi", "Bangalore", "Mumbai"],
+    "answer": "Gurugram"
+  },
+  {
+    "id": 188,
+    "question": "Which Indian island group is famous for its coral reefs?",
+    "options": ["Andaman & Nicobar Islands", "Lakshadweep", "Diu", "Rameswaram"],
+    "answer": "Lakshadweep"
+  },
+  {
+    "id": 189,
+    "question": "Which Indian environmental activist is famous for the Chipko movement?",
+    "options": ["Sunderlal Bahuguna", "Medha Patkar", "Rajendra Singh", "Vandana Shiva"],
+    "answer": "Sunderlal Bahuguna"
+  },
+  {
+    "id": 190,
+    "question": "Which Indian state is famous for the Keibul Lamjao National Park, home to the Sangai deer?",
+    "options": ["Manipur", "Assam", "Mizoram", "Nagaland"],
+    "answer": "Manipur"
+  },
+  {
+    "id": 191,
+    "question": "Which Indian city has the highest air pollution according to AQI reports?",
+    "options": ["Delhi", "Kanpur", "Patna", "Ludhiana"],
+    "answer": "Delhi"
+  },
+  {
+    "id": 192,
+    "question": "Which Indian state has the highest forest cover percentage relative to its area?",
+    "options": ["Mizoram", "Arunachal Pradesh", "Meghalaya", "Nagaland"],
+    "answer": "Mizoram"
+  },
+  {
+    "id": 193,
+    "question": "Which Indian dam project faced massive protests due to displacement of tribal populations?",
+    "options": ["Sardar Sarovar Dam", "Bhakra Nangal Dam", "Tehri Dam", "Hirakud Dam"],
+    "answer": "Sardar Sarovar Dam"
+  },
+  {
+    "id": 194,
+    "question": "Which Indian river is known as the 'Sorrow of Bihar' due to frequent flooding?",
+    "options": ["Ganga", "Kosi", "Gandak", "Son"],
+    "answer": "Kosi"
+  },
+  {
+    "id": 195,
+    "question": "Which Indian program aims to reduce vehicular emissions through cleaner fuel and public transport?",
+    "options": ["National Electric Mobility Mission", "Faster Adoption and Manufacturing of Hybrid Vehicles", "Bharat Stage Emission Standards", "Smart Cities Mission"],
+    "answer": "Bharat Stage Emission Standards"
+  },
+  {
+    "id": 196,
+    "question": "Which Indian state has implemented a ban on single-use plastics across all cities and towns?",
+    "options": ["Sikkim", "Kerala", "Tamil Nadu", "Maharashtra"],
+    "answer": "Sikkim"
+  },
+  {
+    "id": 197,
+    "question": "Which Indian environmentalist is known for campaigns against deforestation and soil erosion in Uttarakhand?",
+    "options": ["Sunderlal Bahuguna", "Rajendra Singh", "Medha Patkar", "Vandana Shiva"],
+    "answer": "Sunderlal Bahuguna"
+  },
+  {
+    "id": 198,
+    "question": "Which Indian lake is recognized for its floating islands and unique ecosystem in Manipur?",
+    "options": ["Loktak Lake", "Dal Lake", "Chilika Lake", "Vembanad Lake"],
+    "answer": "Loktak Lake"
+  },
+  {
+    "id": 199,
+    "question": "Which Indian state has the maximum number of biodiversity hotspots?",
+    "options": ["Maharashtra", "Arunachal Pradesh", "Tamil Nadu", "Madhya Pradesh"],
+    "answer": "Arunachal Pradesh"
+  },
+  {
+    "id": 200,
+    "question": "Which Indian initiative aims to tackle climate change by promoting sustainable energy and afforestation?",
+    "options": ["National Action Plan on Climate Change", "Green India Mission", "National Solar Mission", "Clean Ganga Mission"],
+    "answer": "National Action Plan on Climate Change"
+  }
+],
+"hard": [
+  {
+    "id": 201,
+    "question": "Which international agreement first set legally binding targets for reducing greenhouse gas emissions?",
+    "options": ["Kyoto Protocol", "Paris Agreement", "Montreal Protocol", "Copenhagen Accord"],
+    "answer": "Kyoto Protocol"
+  },
+  {
+    "id": 202,
+    "question": "Which greenhouse gas has the highest global warming potential per molecule?",
+    "options": ["Methane", "Carbon dioxide", "Nitrous oxide", "Sulfur hexafluoride"],
+    "answer": "Sulfur hexafluoride"
+  },
+  {
+    "id": 203,
+    "question": "Which Indian state hosts the Nanda Devi Biosphere Reserve, a UNESCO World Heritage site?",
+    "options": ["Uttarakhand", "Himachal Pradesh", "Sikkim", "Arunachal Pradesh"],
+    "answer": "Uttarakhand"
+  },
+  {
+    "id": 204,
+    "question": "Which of the following is a transboundary air pollution issue affecting northern India?",
+    "options": ["Asian Brown Cloud", "El Niño", "La Niña", "Indian Monsoon Depression"],
+    "answer": "Asian Brown Cloud"
+  },
+  {
+    "id": 205,
+    "question": "Which Indian river basin is considered the most water-stressed region in India?",
+    "options": ["Indus Basin", "Ganga Basin", "Godavari Basin", "Krishna Basin"],
+    "answer": "Indus Basin"
+  },
+  {
+    "id": 206,
+    "question": "Which international treaty regulates the trade of endangered species worldwide?",
+    "options": ["CITES", "Montreal Protocol", "Kyoto Protocol", "Biodiversity Convention"],
+    "answer": "CITES"
+  },
+  {
+    "id": 207,
+    "question": "Which gas is mainly responsible for stratospheric ozone depletion?",
+    "options": ["Nitrous oxide", "CFCs", "Methane", "Oxygen"],
+    "answer": "CFCs"
+  },
+  {
+    "id": 208,
+    "question": "Which Indian state has the highest mangrove cover in terms of area?",
+    "options": ["West Bengal", "Andhra Pradesh", "Odisha", "Tamil Nadu"],
+    "answer": "West Bengal"
+  },
+  {
+    "id": 209,
+    "question": "Which is the largest Ramsar wetland site in India?",
+    "options": ["Sundarbans", "Chilika Lake", "Loktak Lake", "Bharatpur Wetlands"],
+    "answer": "Chilika Lake"
+  },
+  {
+    "id": 210,
+    "question": "Which Indian national park is a habitat for the red panda?",
+    "options": ["Singalila National Park", "Khangchendzonga National Park", "Periyar National Park", "Namdapha National Park"],
+    "answer": "Singalila National Park"
+  },
+  {
+    "id": 211,
+    "question": "Which country is the largest emitter of methane from livestock?",
+    "options": ["India", "China", "USA", "Brazil"],
+    "answer": "India"
+  },
+  {
+    "id": 212,
+    "question": "Which Indian city has the highest number of days exceeding PM2.5 standards?",
+    "options": ["Delhi", "Kanpur", "Ludhiana", "Patna"],
+    "answer": "Delhi"
+  },
+  {
+    "id": 213,
+    "question": "Which Indian government initiative aims to enhance forest carbon stock through afforestation and reforestation?",
+    "options": ["Green India Mission", "National Afforestation Plan", "Compensatory Afforestation Fund", "Joint Forest Management"],
+    "answer": "Green India Mission"
+  },
+  {
+    "id": 214,
+    "question": "Which Indian state is home to the one-horned rhinoceros outside Kaziranga?",
+    "options": ["Assam", "Uttarakhand", "Odisha", "Bihar"],
+    "answer": "Odisha"
+  },
+  {
+    "id": 215,
+    "question": "Which chemical is used in India to prevent post-harvest grain infestation but is toxic to humans and the environment?",
+    "options": ["DDT", "Aluminium phosphide", "Glyphosate", "Endosulfan"],
+    "answer": "Aluminium phosphide"
+  },
+  {
+    "id": 216,
+    "question": "Which Indian island is severely threatened by rising sea levels and saltwater intrusion?",
+    "options": ["Bangaram Island", "Minicoy Island", "Lakshadweep", "Andaman Island"],
+    "answer": "Lakshadweep"
+  },
+  {
+    "id": 217,
+    "question": "Which type of desertification affects the Thar Desert due to overgrazing and soil erosion?",
+    "options": ["Water erosion", "Wind erosion", "Chemical erosion", "Deflation"],
+    "answer": "Wind erosion"
+  },
+  {
+    "id": 218,
+    "question": "Which Indian national park is known for its rich avian diversity and is a UNESCO site?",
+    "options": ["Keoladeo Ghana National Park", "Sundarbans National Park", "Chinnar Wildlife Sanctuary", "Periyar National Park"],
+    "answer": "Keoladeo Ghana National Park"
+  },
+  {
+    "id": 219,
+    "question": "Which is the primary reason for coral bleaching in the Andaman and Nicobar Islands?",
+    "options": ["Overfishing", "Sea surface temperature rise", "Oil spills", "Plastic pollution"],
+    "answer": "Sea surface temperature rise"
+  },
+  {
+    "id": 220,
+    "question": "Which Indian environmental law regulates the management of hazardous waste?",
+    "options": ["Environment Protection Act, 1986", "Hazardous Waste Management Rules, 2016", "Water (Prevention & Control of Pollution) Act, 1974", "Air (Prevention & Control of Pollution) Act, 1981"],
+    "answer": "Hazardous Waste Management Rules, 2016"
+  },
+  {
+    "id": 221,
+    "question": "Which Indian species is a key indicator for forest ecosystem health and is called the 'umbrella species'?",
+    "options": ["Royal Bengal Tiger", "Asiatic Elephant", "Indian Leopard", "Snow Leopard"],
+    "answer": "Royal Bengal Tiger"
+  },
+  {
+    "id": 222,
+    "question": "Which Indian lake is famous for its floating islands called Phumdis and endemic species like Sangai deer?",
+    "options": ["Loktak Lake", "Chilika Lake", "Dal Lake", "Vembanad Lake"],
+    "answer": "Loktak Lake"
+  },
+  {
+    "id": 223,
+    "question": "Which pollutant contributes most to photochemical smog in Indian cities?",
+    "options": ["Carbon monoxide", "Ozone", "Nitrogen oxides", "Sulphur dioxide"],
+    "answer": "Nitrogen oxides"
+  },
+  {
+    "id": 224,
+    "question": "Which Indian river is considered the most polluted according to the Central Pollution Control Board?",
+    "options": ["Yamuna", "Ganga", "Godavari", "Krishna"],
+    "answer": "Yamuna"
+  },
+  {
+    "id": 225,
+    "question": "Which Indian state is the leading producer of solar power capacity as of 2025?",
+    "options": ["Rajasthan", "Tamil Nadu", "Gujarat", "Karnataka"],
+    "answer": "Rajasthan"
+  },
+  {
+    "id": 226,
+    "question": "Which Indian state faces the highest frequency of cyclones along its coastline?",
+    "options": ["Odisha", "West Bengal", "Andhra Pradesh", "Tamil Nadu"],
+    "answer": "Odisha"
+  },
+  {
+    "id": 227,
+    "question": "Which Indian state has the largest area under mangroves after West Bengal?",
+    "options": ["Gujarat", "Andhra Pradesh", "Odisha", "Tamil Nadu"],
+    "answer": "Gujarat"
+  },
+  {
+    "id": 228,
+    "question": "Which Indian national park is a UNESCO World Heritage Site for its unique Himalayan ecosystem?",
+    "options": ["Khangchendzonga National Park", "Hemis National Park", "Manas National Park", "Sundarbans National Park"],
+    "answer": "Khangchendzonga National Park"
+  },
+  {
+    "id": 229,
+    "question": "Which river in India is heavily contaminated with industrial effluents from Kanpur and Delhi?",
+    "options": ["Yamuna", "Ganga", "Godavari", "Krishna"],
+    "answer": "Yamuna"
+  },
+  {
+    "id": 230,
+    "question": "Which Indian state has the maximum number of tiger reserves as per Project Tiger?",
+    "options": ["Madhya Pradesh", "Karnataka", "Uttarakhand", "Rajasthan"],
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "id": 231,
+    "question": "Which Indian river basin is most vulnerable to climate change due to glacier melt in the Himalayas?",
+    "options": ["Ganga Basin", "Brahmaputra Basin", "Indus Basin", "Godavari Basin"],
+    "answer": "Indus Basin"
+  },
+  {
+    "id": 232,
+    "question": "Which Indian initiative monitors and regulates environmental pollution through remote sensing and GIS technology?",
+    "options": ["National Air Quality Monitoring Program", "Bhuvan Geoportal", "National Environmental Monitoring Network", "Environment Protection Act"],
+    "answer": "Bhuvan Geoportal"
+  },
+  {
+    "id": 233,
+    "question": "Which Indian state has the largest area under protected wetlands as per Ramsar sites?",
+    "options": ["Odisha", "West Bengal", "Tamil Nadu", "Kerala"],
+    "answer": "Odisha"
+  },
+  {
+    "id": 234,
+    "question": "Which is the primary cause of soil salinity in arid regions of Rajasthan?",
+    "options": ["Over-irrigation", "Deforestation", "Industrial pollution", "Overgrazing"],
+    "answer": "Over-irrigation"
+  },
+  {
+    "id": 235,
+    "question": "Which Indian species is classified as 'Critically Endangered' and is endemic to the Western Ghats?",
+    "options": ["Lion-tailed Macaque", "Nilgiri Tahr", "Malabar Civet", "Great Indian Bustard"],
+    "answer": "Lion-tailed Macaque"
+  },
+  {
+    "id": 236,
+    "question": "Which international organization publishes the Emissions Gap Report annually?",
+    "options": ["UNEP", "IPCC", "WHO", "UNFCCC"],
+    "answer": "UNEP"
+  },
+  {
+    "id": 237,
+    "question": "Which Indian environmental law mandates Environmental Impact Assessments (EIA) for projects affecting the environment?",
+    "options": ["Environment Protection Act, 1986", "Water Act, 1974", "Air Act, 1981", "Wildlife Protection Act, 1972"],
+    "answer": "Environment Protection Act, 1986"
+  },
+  {
+    "id": 238,
+    "question": "Which Indian state has the highest mangrove biodiversity with 47 species?",
+    "options": ["Andhra Pradesh", "West Bengal", "Odisha", "Gujarat"],
+    "answer": "Andhra Pradesh"
+  },
+  {
+    "id": 239,
+    "question": "Which Indian city has implemented the 'Odd-Even' scheme to control vehicular pollution?",
+    "options": ["Delhi", "Mumbai", "Bangalore", "Chennai"],
+    "answer": "Delhi"
+  },
+  {
+    "id": 240,
+    "question": "Which Indian mountain range is a UNESCO World Heritage Site for its biodiversity and endemic species?",
+    "options": ["Western Ghats", "Himalayas", "Aravalli Hills", "Vindhyas"],
+    "answer": "Western Ghats"
+  },
+  {
+    "id": 241,
+    "question": "Which Indian state is known for extensive rainwater harvesting practices in urban areas?",
+    "options": ["Tamil Nadu", "Karnataka", "Rajasthan", "Maharashtra"],
+    "answer": "Tamil Nadu"
+  },
+  {
+    "id": 242,
+    "question": "Which Indian species is a keystone species maintaining the ecosystem of the Sundarbans?",
+    "options": ["Royal Bengal Tiger", "Saltwater Crocodile", "Ganges River Dolphin", "Indian Python"],
+    "answer": "Royal Bengal Tiger"
+  },
+  {
+    "id": 243,
+    "question": "Which Indian state has the maximum number of Ramsar wetland sites?",
+    "options": ["Tamil Nadu", "Odisha", "Maharashtra", "West Bengal"],
+    "answer": "Tamil Nadu"
+  },
+  {
+    "id": 244,
+    "question": "Which international convention aims to combat desertification globally?",
+    "options": ["UNCCD", "UNFCCC", "CITES", "Montreal Protocol"],
+    "answer": "UNCCD"
+  },
+  {
+    "id": 245,
+    "question": "Which Indian river originates from the Nanda Devi Glacier and is prone to glacial lake outburst floods?",
+    "options": ["Ganga", "Yamuna", "Alaknanda", "Bhagirathi"],
+    "answer": "Alaknanda"
+  },
+  {
+    "id": 246,
+    "question": "Which Indian species is called a 'flagship species' for freshwater conservation?",
+    "options": ["Ganges River Dolphin", "Indian Softshell Turtle", "Mahseer", "Gangetic Shark"],
+    "answer": "Ganges River Dolphin"
+  },
+  {
+    "id": 247,
+    "question": "Which Indian program focuses on electric mobility and adoption of hybrid vehicles to reduce emissions?",
+    "options": ["FAME India Scheme", "National Electric Mobility Mission", "National Solar Mission", "Clean India Campaign"],
+    "answer": "FAME India Scheme"
+  },
+  {
+    "id": 248,
+    "question": "Which type of wetland is Loktak Lake famous for?",
+    "options": ["Floating wetlands (Phumdis)", "Mangrove wetlands", "Marshes", "Swamps"],
+    "answer": "Floating wetlands (Phumdis)"
+  },
+  {
+    "id": 249,
+    "question": "Which Indian environmentalist is known as the 'Waterman of India' for river rejuvenation efforts?",
+    "options": ["Rajendra Singh", "Medha Patkar", "Sunderlal Bahuguna", "Vandana Shiva"],
+    "answer": "Rajendra Singh"
+  },
+  {
+    "id": 250,
+    "question": "Which Indian state is the leading producer of wind energy?",
+    "options": ["Tamil Nadu", "Gujarat", "Rajasthan", "Maharashtra"],
+    "answer": "Tamil Nadu"
+  },
+  {
+    "id": 251,
+    "question": "Which Indian species is critically endangered and endemic to the Thar Desert?",
+    "options": ["Great Indian Bustard", "Asiatic Lion", "Blackbuck", "Chinkara"],
+    "answer": "Great Indian Bustard"
+  },
+  {
+    "id": 252,
+    "question": "Which Indian state has the largest area under tropical dry deciduous forests?",
+    "options": ["Madhya Pradesh", "Maharashtra", "Chhattisgarh", "Karnataka"],
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "id": 253,
+    "question": "Which Indian river flows through a biodiversity hotspot known as the Western Ghats before reaching the Arabian Sea?",
+    "options": ["Godavari", "Cauvery", "Krishna", "Periyar"],
+    "answer": "Periyar"
+  },
+  {
+    "id": 254,
+    "question": "Which Indian mountain range has a high concentration of endemic amphibians?",
+    "options": ["Western Ghats", "Aravalli Hills", "Himalayas", "Satpura Range"],
+    "answer": "Western Ghats"
+  },
+  {
+    "id": 255,
+    "question": "Which Indian coastal city was declared the first 'Blue Flag' beach in India for environmental standards?",
+    "options": ["Chandipur", "Chandigarh", "Chennai", "Puri"],
+    "answer": "Chandipur"
+  },
+  {
+    "id": 256,
+    "question": "Which Indian law regulates biodiversity conservation at local levels through Biodiversity Management Committees?",
+    "options": ["Biological Diversity Act, 2002", "Environment Protection Act, 1986", "Wildlife Protection Act, 1972", "Forest Conservation Act, 1980"],
+    "answer": "Biological Diversity Act, 2002"
+  },
+  {
+    "id": 257,
+    "question": "Which Indian state is home to the Kuno-Palpur wildlife sanctuary for cheetah reintroduction?",
+    "options": ["Madhya Pradesh", "Rajasthan", "Gujarat", "Maharashtra"],
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "id": 258,
+    "question": "Which Indian river system is most affected by industrial effluents from textile and chemical industries in Gujarat?",
+    "options": ["Sabarmati", "Mahi", "Narmada", "Tapi"],
+    "answer": "Sabarmati"
+  },
+  {
+    "id": 259,
+    "question": "Which Indian species is a top predator maintaining the ecological balance in mangrove ecosystems?",
+    "options": ["Saltwater Crocodile", "Royal Bengal Tiger", "Fishing Cat", "Smooth-coated Otter"],
+    "answer": "Royal Bengal Tiger"
+  },
+  {
+    "id": 260,
+    "question": "Which Indian coastal zone is most prone to sea-level rise and cyclones due to climate change?",
+    "options": ["Odisha Coast", "Gujarat Coast", "Kerala Coast", "Tamil Nadu Coast"],
+    "answer": "Odisha Coast"
+  },
+  {
+    "id": 261,
+    "question": "Which Indian river delta supports one of the largest mangrove forests in the world?",
+    "options": ["Ganga-Brahmaputra Delta", "Godavari Delta", "Krishna Delta", "Mahanadi Delta"],
+    "answer": "Ganga-Brahmaputra Delta"
+  },
+  {
+    "id": 262,
+    "question": "Which Indian environmental initiative focuses on combating desertification and land degradation in arid regions?",
+    "options": ["Desert Development Program", "Green India Mission", "National Afforestation Plan", "Clean Ganga Mission"],
+    "answer": "Desert Development Program"
+  },
+  {
+    "id": 263,
+    "question": "Which Indian state faces major urban flooding due to rapid unplanned urbanization and heavy rainfall?",
+    "options": ["Mumbai", "Bangalore", "Kolkata", "Chennai"],
+    "answer": "Mumbai"
+  },
+  {
+    "id": 264,
+    "question": "Which Indian river is called the 'Sorrow of Bihar' due to frequent floods?",
+    "options": ["Kosi", "Gandak", "Bagmati", "Ganga"],
+    "answer": "Kosi"
+  },
+  {
+    "id": 265,
+    "question": "Which Indian program promotes renewable energy through subsidies for rooftop solar panels?",
+    "options": ["National Solar Mission", "Green Energy Initiative", "FAME India", "National Electric Mobility Mission"],
+    "answer": "National Solar Mission"
+  },
+  {
+    "id": 266,
+    "question": "Which Indian national park is famous for clouded leopards and Asiatic black bears?",
+    "options": ["Namdapha National Park", "Periyar National Park", "Bandhavgarh National Park", "Kaziranga National Park"],
+    "answer": "Namdapha National Park"
+  },
+  {
+    "id": 267,
+    "question": "Which Indian state has the highest potential for offshore wind energy?",
+    "options": ["Gujarat", "Tamil Nadu", "Andhra Pradesh", "Maharashtra"],
+    "answer": "Gujarat"
+  },
+  {
+    "id": 268,
+    "question": "Which Indian environmental initiative aims to improve energy efficiency and reduce greenhouse gas emissions?",
+    "options": ["Perform, Achieve and Trade (PAT) Scheme", "National Solar Mission", "FAME India", "National Electric Mobility Mission"],
+    "answer": "Perform, Achieve and Trade (PAT) Scheme"
+  },
+  {
+    "id": 269,
+    "question": "Which Indian species is endemic to the Sunderbans and a flagship species for mangrove conservation?",
+    "options": ["Royal Bengal Tiger", "Saltwater Crocodile", "Fishing Cat", "Smooth-coated Otter"],
+    "answer": "Royal Bengal Tiger"
+  },
+  {
+    "id": 270,
+    "question": "Which Indian city is prone to smog due to a combination of crop burning, vehicular pollution, and industrial emissions?",
+    "options": ["Delhi", "Kanpur", "Patna", "Ludhiana"],
+    "answer": "Delhi"
+  },
+  {
+    "id": 271,
+    "question": "Which Indian state has the largest coverage of evergreen and semi-evergreen forests?",
+    "options": ["Arunachal Pradesh", "Mizoram", "Kerala", "Karnataka"],
+    "answer": "Arunachal Pradesh"
+  },
+  {
+    "id": 272,
+    "question": "Which Indian species is considered a bioindicator for freshwater ecosystem health?",
+    "options": ["Ganges River Dolphin", "Mahseer", "Indian Softshell Turtle", "Gangetic Shark"],
+    "answer": "Ganges River Dolphin"
+  },
+  {
+    "id": 273,
+    "question": "Which Indian law regulates the diversion of forest land for non-forest purposes?",
+    "options": ["Forest Conservation Act, 1980", "Environment Protection Act, 1986", "Wildlife Protection Act, 1972", "Biological Diversity Act, 2002"],
+    "answer": "Forest Conservation Act, 1980"
+  },
+  {
+    "id": 274,
+    "question": "Which Indian species was successfully reintroduced under Project Cheetah?",
+    "options": ["Cheetah", "Asiatic Lion", "Snow Leopard", "Great Indian Bustard"],
+    "answer": "Cheetah"
+  },
+  {
+    "id": 275,
+    "question": "Which Indian river delta is facing severe erosion due to rising sea levels?",
+    "options": ["Ganga-Brahmaputra Delta", "Mahanadi Delta", "Godavari Delta", "Krishna Delta"],
+    "answer": "Ganga-Brahmaputra Delta"
+  },
+  {
+    "id": 276,
+    "question": "Which Indian national park is home to the Asiatic lion outside Gir National Park?",
+    "options": ["Kuno-Palpur Sanctuary", "Sariska Tiger Reserve", "Ranthambore National Park", "Kaziranga National Park"],
+    "answer": "Kuno-Palpur Sanctuary"
+  },
+  {
+    "id": 277,
+    "question": "Which Indian environmental law protects endangered species and regulates hunting?",
+    "options": ["Wildlife Protection Act, 1972", "Environment Protection Act, 1986", "Forest Conservation Act, 1980", "Biological Diversity Act, 2002"],
+    "answer": "Wildlife Protection Act, 1972"
+  },
+  {
+    "id": 278,
+    "question": "Which Indian state implemented the world's largest solar park, Bhadla Solar Park?",
+    "options": ["Rajasthan", "Gujarat", "Tamil Nadu", "Karnataka"],
+    "answer": "Rajasthan"
+  },
+  {
+    "id": 279,
+    "question": "Which Indian river has a dolphin sanctuary at Vikramshila, Bihar?",
+    "options": ["Ganga", "Son", "Gandak", "Kosi"],
+    "answer": "Ganga"
+  },
+  {
+    "id": 280,
+    "question": "Which Indian initiative promotes renewable energy adoption in rural areas through decentralized solar systems?",
+    "options": ["Deen Dayal Upadhyaya Gram Jyoti Yojana", "National Solar Mission", "FAME India", "Green Energy Initiative"],
+    "answer": "National Solar Mission"
+  },
+  {
+    "id": 281,
+    "question": "Which Indian state is highly affected by desertification and sand dune expansion?",
+    "options": ["Rajasthan", "Gujarat", "Haryana", "Punjab"],
+    "answer": "Rajasthan"
+  },
+  {
+    "id": 282,
+    "question": "Which Indian river is most affected by heavy metal contamination due to industrial effluents in Tamil Nadu?",
+    "options": ["Cauvery", "Vaigai", "Periyar", "Thamirabarani"],
+    "answer": "Cauvery"
+  },
+  {
+    "id": 283,
+    "question": "Which Indian species is critically endangered and found only in Manipur's Loktak Lake?",
+    "options": ["Sangai Deer", "Golden Mahseer", "Ganges River Dolphin", "Indian Softshell Turtle"],
+    "answer": "Sangai Deer"
+  },
+  {
+    "id": 284,
+    "question": "Which Indian environmental initiative regulates e-waste management?",
+    "options": ["E-Waste (Management) Rules, 2016", "Environment Protection Act, 1986", "Hazardous Waste Management Rules, 2016", "National Electric Mobility Mission"],
+    "answer": "E-Waste (Management) Rules, 2016"
+  },
+  {
+    "id": 285,
+    "question": "Which Indian island group is known for high coral reef diversity?",
+    "options": ["Andaman & Nicobar Islands", "Lakshadweep", "Diu Islands", "Rameswaram"],
+    "answer": "Andaman & Nicobar Islands"
+  },
+  {
+    "id": 286,
+    "question": "Which Indian environmentalist led the Chipko Movement for forest conservation?",
+    "options": ["Sunderlal Bahuguna", "Medha Patkar", "Rajendra Singh", "Vandana Shiva"],
+    "answer": "Sunderlal Bahuguna"
+  },
+  {
+    "id": 287,
+    "question": "Which Indian state has the highest number of hydroelectric projects in the Himalayas?",
+    "options": ["Himachal Pradesh", "Uttarakhand", "Sikkim", "Jammu & Kashmir"],
+    "answer": "Himachal Pradesh"
+  },
+  {
+    "id": 288,
+    "question": "Which Indian coastal wetland is a major wintering ground for migratory birds?",
+    "options": ["Chilika Lake", "Sundarbans", "Vembanad Lake", "Pulicat Lake"],
+    "answer": "Chilika Lake"
+  },
+  {
+    "id": 289,
+    "question": "Which Indian river is targeted by the National Ganga River Basin Authority for pollution control?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Krishna"],
+    "answer": "Ganga"
+  },
+  {
+    "id": 290,
+    "question": "Which Indian law regulates genetically modified organisms and biotechnology research?",
+    "options": ["Environment Protection Act, 1986", "Biological Diversity Act, 2002", "Rules for GMOs under EPA", "Wildlife Protection Act, 1972"],
+    "answer": "Rules for GMOs under EPA"
+  },
+  {
+    "id": 291,
+    "question": "Which Indian mountain peak is retreating fastest due to climate change?",
+    "options": ["Gangotri Glacier Peak", "Nanda Devi", "Kangchenjunga", "Kanchenjunga East"],
+    "answer": "Gangotri Glacier Peak"
+  },
+  {
+    "id": 292,
+    "question": "Which Indian species is critically endangered due to habitat loss in the Western Ghats?",
+    "options": ["Nilgiri Tahr", "Lion-tailed Macaque", "Malabar Civet", "Great Indian Bustard"],
+    "answer": "Lion-tailed Macaque"
+  },
+  {
+    "id": 293,
+    "question": "Which Indian program aims to restore degraded forest land through community participation?",
+    "options": ["Joint Forest Management", "National Afforestation Plan", "Green India Mission", "Desert Development Program"],
+    "answer": "Joint Forest Management"
+  },
+  {
+    "id": 294,
+    "question": "Which Indian coastal state faces maximum risk from cyclones and storm surges?",
+    "options": ["Odisha", "West Bengal", "Andhra Pradesh", "Tamil Nadu"],
+    "answer": "Odisha"
+  },
+  {
+    "id": 295,
+    "question": "Which Indian species is a bioindicator for wetland ecosystem health in northeastern India?",
+    "options": ["Sangai Deer", "Ganges River Dolphin", "Gangetic Shark", "Golden Mahseer"],
+    "answer": "Sangai Deer"
+  },
+  {
+    "id": 296,
+    "question": "Which Indian national park is home to clouded leopards and other rare carnivores in Arunachal Pradesh?",
+    "options": ["Namdapha National Park", "Kaziranga National Park", "Periyar National Park", "Bandipur National Park"],
+    "answer": "Namdapha National Park"
+  },
+  {
+    "id": 297,
+    "question": "Which Indian river delta is highly vulnerable to saltwater intrusion due to sea-level rise?",
+    "options": ["Ganga-Brahmaputra Delta", "Mahanadi Delta", "Godavari Delta", "Krishna Delta"],
+    "answer": "Ganga-Brahmaputra Delta"
+  },
+  {
+    "id": 298,
+    "question": "Which Indian species is a flagship species for riverine ecosystems and dolphin conservation?",
+    "options": ["Ganges River Dolphin", "Gangetic Shark", "Mahseer", "Indian Softshell Turtle"],
+    "answer": "Ganges River Dolphin"
+  },
+  {
+    "id": 299,
+    "question": "Which Indian program promotes electric buses and sustainable urban transport?",
+    "options": ["FAME India Scheme", "National Electric Mobility Mission", "Perform, Achieve and Trade Scheme", "National Solar Mission"],
+    "answer": "FAME India Scheme"
+  },
+  {
+    "id": 300,
+    "question": "Which Indian law provides legal framework for access and benefit sharing of biological resources?",
+    "options": ["Biological Diversity Act, 2002", "Environment Protection Act, 1986", "Forest Conservation Act, 1980", "Wildlife Protection Act, 1972"],
+    "answer": "Biological Diversity Act, 2002"
+  }
+]
+}
+
+
+
+
+
+

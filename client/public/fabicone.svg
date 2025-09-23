@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220" height="64" viewBox="0 0 220 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Leaf icon -->
+  <g transform="translate(32, 16)">
+    <!-- Main leaf shape -->
+    <path d="M8 4 C12 2, 18 4, 20 10 C22 16, 18 22, 12 26 C8 28, 4 26, 2 20 C0 14, 4 8, 8 4 Z" 
+          fill="#4ade80" stroke="none"/>
+    <!-- Leaf vein -->
+    <path d="M8 8 Q12 12, 16 20" stroke="#22c55e" stroke-width="1.5" fill="none"/>
+    <!-- Small leaf detail -->
+    <circle cx="6" cy="12" r="2" fill="#22c55e" opacity="0.6"/>
+  </g>
+  
+  <!-- NNinjas text -->
+  <text x="68" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="#4ade80">
+    NNinjas
+  </text>
+</svg>

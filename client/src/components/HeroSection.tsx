@@ -1,7 +1,9 @@
 import { Button } from "@/components/ui/button";
+import { useNavigate } from "@tanstack/react-router";
 import { PlayCircle, Target } from "lucide-react";
-
+import gif from "/Frosty!.gif"
 const HeroSection = () => {
+  const navigation = useNavigate();
   return (
     <section className="relative py-20 px-4 overflow-hidden">
       {/* Background gradient */}
@@ -27,10 +29,18 @@ const HeroSection = () => {
               <PlayCircle className="h-5 w-5 mr-2" />
               Start Learning
             </Button>
-            <Button variant="outline" size="lg" className="text-lg px-8 border-nature text-nature hover:bg-nature-light">
+            <Button variant="outline" size="lg" className="text-lg px-8 border-nature text-nature hover:bg-nature-light"
+            onClick={() => navigation({to: '/challenges'})}
+            >
               <Target className="h-5 w-5 mr-2" />
               View Challenges
             </Button>
+            <div className="right-0">
+               <img src={gif} alt="gif" style={{
+                backgroundColor: "transparent", /* Ensure parent background shows */
+                mixBlendMode: "multiply"
+              }} className="h-50"/>
+            </div>
           </div>
           
           <div className="mt-12 grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
@@ -46,10 +56,11 @@ const HeroSection = () => {
               <div className="text-3xl font-bold text-earth">10K+</div>
               <div className="text-sm text-muted-foreground">Active Learners</div>
             </div>
-            <div className="p-4">
+            <div className="p-4  gap-2">
               <div className="text-3xl font-bold text-nature">95%</div>
               <div className="text-sm text-muted-foreground">Success Rate</div>
             </div>
+           
           </div>
         </div>
       </div>
