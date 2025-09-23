@@ -1,4 +1,4 @@
-name: publish_client
+name: publish_auth
 on:
     [workflow_dispatch]
 jobs:
